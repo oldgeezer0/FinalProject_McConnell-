@@ -1,0 +1,15 @@
+C:\Users\mccondyl1\Downloads\Dylan McConnell\Assignments\FinalProject\FInalProject\FInalProject\obj\Debug\net6.0\FInalProject.csproj.AssemblyReference.cache
+C:\Users\mccondyl1\Downloads\Dylan McConnell\Assignments\FinalProject\FInalProject\FInalProject\obj\Debug\net6.0\FInalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mccondyl1\Downloads\Dylan McConnell\Assignments\FinalProject\FInalProject\FInalProject\obj\Debug\net6.0\FInalProject.AssemblyInfoInputs.cache
+C:\Users\mccondyl1\Downloads\Dylan McConnell\Assignments\FinalProject\FInalProject\FInalProject\obj\Debug\net6.0\FInalProject.AssemblyInfo.cs
+C:\Users\mccondyl1\Downloads\Dylan McConnell\Assignments\FinalProject\FInalProject\FInalProject\obj\Debug\net6.0\FInalProject.csproj.CoreCompileInputs.cache
+C:\Users\mccondyl1\Downloads\Dylan McConnell\Assignments\FinalProject\FInalProject\FInalProject\bin\Debug\net6.0\FInalProject.exe
+C:\Users\mccondyl1\Downloads\Dylan McConnell\Assignments\FinalProject\FInalProject\FInalProject\bin\Debug\net6.0\FInalProject.deps.json
+C:\Users\mccondyl1\Downloads\Dylan McConnell\Assignments\FinalProject\FInalProject\FInalProject\bin\Debug\net6.0\FInalProject.runtimeconfig.json
+C:\Users\mccondyl1\Downloads\Dylan McConnell\Assignments\FinalProject\FInalProject\FInalProject\bin\Debug\net6.0\FInalProject.dll
+C:\Users\mccondyl1\Downloads\Dylan McConnell\Assignments\FinalProject\FInalProject\FInalProject\bin\Debug\net6.0\FInalProject.pdb
+C:\Users\mccondyl1\Downloads\Dylan McConnell\Assignments\FinalProject\FInalProject\FInalProject\obj\Debug\net6.0\FInalProject.dll
+C:\Users\mccondyl1\Downloads\Dylan McConnell\Assignments\FinalProject\FInalProject\FInalProject\obj\Debug\net6.0\refint\FInalProject.dll
+C:\Users\mccondyl1\Downloads\Dylan McConnell\Assignments\FinalProject\FInalProject\FInalProject\obj\Debug\net6.0\FInalProject.pdb
+C:\Users\mccondyl1\Downloads\Dylan McConnell\Assignments\FinalProject\FInalProject\FInalProject\obj\Debug\net6.0\FInalProject.genruntimeconfig.cache
+C:\Users\mccondyl1\Downloads\Dylan McConnell\Assignments\FinalProject\FInalProject\FInalProject\obj\Debug\net6.0\ref\FInalProject.dll
